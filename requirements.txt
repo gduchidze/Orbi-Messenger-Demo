@@ -1,0 +1,7 @@
+fastapi[all]~=0.115.4
+langchain-openai~=0.2.3
+langchain~=0.3.4
+langgraph~=0.2.39
+langchain-qdrant~=0.1.4
+langchain-voyageai~=0.1.2
+pydantic-settings~=2.6.0
